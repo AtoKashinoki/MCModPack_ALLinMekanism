@@ -1,0 +1,42 @@
+[21:10:13.529][INFO]: Successfully injected RecipeFS file system
+[21:10:13.621][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[21:10:13.635][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[21:10:13.637][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[21:10:13.642][INFO]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[21:10:16.422][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[21:10:16.428][INFO]: - 'crafttweaker' at version '10.1.55'
+[21:10:16.428][INFO]: - 'extendedcrafting' at version '5.1.10'
+[21:10:16.428][INFO]: - 'farmersdelight' at version '1.19.2-1.2.4'
+[21:10:16.428][INFO]: - 'mekanism' at version '10.3.9'
+[21:10:16.428][INFO]: - 'mysticalagriculture' at version '6.0.17'
+[21:10:55.027][INFO]: Started loading scripts for loader 'mekanismcontent'
+[21:10:55.696][INFO]: Compiling and executing scripts
+[21:10:56.870][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:10:57.076][INFO]: Execution for loader 'mekanismcontent' completed successfully
+[21:10:57.076][INFO]: Registering 0 custom gases.
+[21:10:57.089][INFO]: Registering 0 custom infuse types.
+[21:10:57.119][INFO]: Registering 0 custom pigments.
+[21:10:57.133][INFO]: Registering 0 custom robit skins.
+[21:10:57.145][INFO]: Registering 0 custom slurries.
+[21:11:16.879][INFO]: Started loading scripts for loader 'initialize'
+[21:11:17.019][INFO]: Compiling and executing scripts
+[21:11:17.021][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[21:11:17.288][INFO]: Execution for loader 'initialize' completed successfully
+[21:15:27.763][INFO]: Started loading scripts for loader 'tags'
+[21:15:27.786][INFO]: Compiling and executing scripts
+[21:15:27.791][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[21:15:27.802][INFO]: Execution for loader 'tags' completed successfully
+[21:15:32.661][INFO]: Started loading scripts for loader 'crafttweaker'
+[21:15:32.684][INFO]: Compiling and executing scripts
+[21:15:32.874][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:15:32.887][INFO]: Execution for loader 'crafttweaker' completed successfully
+[21:15:48.642][INFO]: Started loading scripts for loader 'tags'
+[21:15:48.643][INFO]: Undoing previous actions
+[21:15:48.673][INFO]: Compiling and executing scripts
+[21:15:48.677][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[21:15:48.688][INFO]: Execution for loader 'tags' completed successfully
+[21:15:53.332][INFO]: Started loading scripts for loader 'crafttweaker'
+[21:15:53.332][INFO]: Undoing previous actions
+[21:15:53.367][INFO]: Compiling and executing scripts
+[21:15:53.567][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:15:53.586][INFO]: Execution for loader 'crafttweaker' completed successfully
